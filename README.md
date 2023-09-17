@@ -22,6 +22,8 @@ This application can be used by downloading the app and opening it through Visua
 
 The following video is a demonstration of how to use the application.
 
+https://watch.screencastify.com/v/2iOjA8PEEHIAXVNns3iW
+
 ## Credits
 
 The bootcamp tutor, Abdullah Al Hilfi, guided me throughout this project.[Tabnine](https://www.tabnine.com/code/javascript/functions/sequelize/Model/findOne) was used to understand how to use the `findOne()` method to GET a single category.  
